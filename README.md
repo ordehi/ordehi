@@ -3,6 +3,7 @@
 - 🌱 I'm currently learning Software Architecture and Design
 - 💞️ I'm looking to collaborate on Open Source and component based projects mainly built with JavaScript and/or Python
 - 📫 Reach out oli@hongui.to and Twitter [@mevreidez](https://twitter.com/mevreidez)
+- 📖 Read my blog: https://blog.ordehi.dev/
 
 <!---
 ordehi/ordehi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
