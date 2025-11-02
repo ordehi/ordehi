@@ -12,7 +12,7 @@ I build solutions that remove friction from workflows rather than adding to them
 
 ### ⚡ Approach
 
-Prove your blocks are solid before building monuments. Keep research, planning, and building separate: context-switching is expensive. **Making your quarter inch drill read the Tarot won't make a better quarter inch hole.**
+Prove your blocks are solid before building monuments. **Making your quarter inch drill read the Tarot won't make a better quarter inch hole.**
 
 The best code I write is the code I don't have to write. Most solutions don't need new infrastructure, they need someone who can see what's already there and repurpose it. **Why pay for lumber when you're standing in a forest?**
 
