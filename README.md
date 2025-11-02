@@ -1,4 +1,4 @@
-## Joshua — Creating frictionless experiences through invisible infrastructure
+## Joshua: Creating frictionless experiences through invisible infrastructure
 
 I build solutions that remove friction from workflows rather than adding to them. My approach aligns with _calm technology_ principles: technology should adapt to people, not the other way around.
 
