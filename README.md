@@ -2,7 +2,7 @@
 
 I build solutions that remove friction from workflows rather than adding to them. My approach aligns with _calm technology_ principles: technology should adapt to people, not the other way around.
 
-### 🎯 Philosophy
+### 🎯 Principles
 
 - **Solve at the periphery:** Address problems at the edge of user consciousness, like a good waiter refills your glass before you notice it's empty.
 - **Subtractive over additive:** Remove steps from workflows. Why would I use your solution if it forces me to change a proven workflow I've committed to muscle memory? **Your software is not the gym.**
@@ -12,15 +12,15 @@ I build solutions that remove friction from workflows rather than adding to them
 
 ### ⚡ Approach
 
-**Bragging about your tech stack in 2025 is like bragging about owning a calculator.**
-
-Prove your blocks are solid before building monuments. **Making your quarter inch drill read the Tarot won't make a better quarter inch hole.** Congratulations, you just built a 10-wheeled bicycle that rides sideways, people will tell you how cool it looks and say you're clever, then they'll go back to riding their old trusties.
+**Bragging about your tech stack in 2025 is like bragging about owning a calculator.** I like working with JS flavors because I can write them anywhere. Python because it zips from idea to solution in seconds. LLMs as extensions rather than shortcuts.
 
 The best code I write is the code I don't have to write. Most solutions don't need new infrastructure, they need someone who can see what's already there and repurpose it. **Why pay for lumber when you're standing in a forest?**
 
-I bring lessons from music, athletics, psychology, and philosophy into technical work. Cross-domain thinking isn't decoration, it's how you spot patterns others miss. The best solutions come from understanding human behavior, not just technical specs. **You don't think about your chair until it breaks. Bad technology demands attention. The best technology integrates.**
+I bring lessons from music, athletics, psychology, and philosophy into technical work. Cross-domain thinking isn't decoration, it's how you spot patterns others miss. The best solutions come from understanding human behavior, not just technical specs. 
 
-Be opinionated about first principles, be flexible about outcomes.
+Prove your blocks are solid before building monuments. **Making your quarter inch drill read the Tarot won't make a better quarter inch hole.** Congratulations, you just built a 10-wheeled bicycle that rides sideways, people will tell you how cool it looks and say you're clever, then they'll go back to riding their old trusties.
+
+**All tech is debt until it becomes invisible. A chair is paid-off debt, you don't think about it until it breaks. Bad technology demands attention. The best technology integrates.**
 
 ### 🔗 Let's connect
 [LinkedIn](https://www.linkedin.com/in/ordehi/) • [Blog](https://blog.ordehi.dev/)
