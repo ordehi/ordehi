@@ -12,13 +12,15 @@ I build solutions that remove friction from workflows rather than adding to them
 
 ### ⚡ Approach
 
+**Bragging about your tech stack in 2025 is like bragging about owning a calculator.**
+
 Prove your blocks are solid before building monuments. **Making your quarter inch drill read the Tarot won't make a better quarter inch hole.** Congratulations, you just built a 10-wheeled bicycle that rides sideways, people will tell you how cool it looks and say you're clever, then they'll go back to riding their old trusties.
 
 The best code I write is the code I don't have to write. Most solutions don't need new infrastructure, they need someone who can see what's already there and repurpose it. **Why pay for lumber when you're standing in a forest?**
 
 I bring lessons from music, athletics, psychology, and philosophy into technical work. Cross-domain thinking isn't decoration, it's how you spot patterns others miss. The best solutions come from understanding human behavior, not just technical specs. **You don't think about your chair until it breaks. Bad technology demands attention. The best technology integrates.**
 
-**Bragging about your tech stack in 2025 is like bragging about owning a calculator.**
+Be opinionated about first principles, be flexible about outcomes.
 
 ### 🔗 Let's connect
 [LinkedIn](https://www.linkedin.com/in/ordehi/) • [Blog](https://blog.ordehi.dev/)
