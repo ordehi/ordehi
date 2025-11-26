@@ -1,5 +1,7 @@
 ## Joshua: Your software is not the gym
 
+Shipped a space to generate shareholder value: https://github.com/PostHog/posthog/pull/42137
+
 I build solutions that remove friction from workflows rather than adding to them. My approach draws from [_calm technology_](https://calmtech.com/): technology should adapt to people, not the other way around.
 
 **Bragging about your tech stack in 2025 is like bragging about owning a calculator.** I like working with JS flavors because they're accessible to write anywhere. Python because it zips from idea to solution in seconds. LLMs as extensions rather than shortcuts.
