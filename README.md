@@ -1,15 +1,13 @@
-## Joshua: Your software is not the gym
-
 Shipped a space to generate shareholder value: https://github.com/PostHog/posthog/pull/42137
-
-The barrier between brain and execution is dissolving, people don't want the intermediate steps anymore. My approach draws from [_calm technology_](https://calmtech.com/): technology should adapt to people, not the other way around.
-
-**Bragging about your tech stack in 2025 is like bragging about owning a calculator.** I like working with JS flavors because they're accessible to write anywhere. Python because it zips from idea to solution in seconds. LLMs as extensions rather than shortcuts.
 
 ### 🔗 Let's connect
 [LinkedIn](https://www.linkedin.com/in/ordehi/) • [Blog](https://blog.ordehi.dev/)
 
 <!---
+The barrier between brain and execution is dissolving, people don't want the intermediate steps anymore. My approach draws from [_calm technology_](https://calmtech.com/): technology should adapt to people, not the other way around.
+
+**Bragging about your tech stack in 2025 is like bragging about owning a calculator.** I like working with JS flavors because they're accessible to write anywhere. Python because it zips from idea to solution in seconds. LLMs as extensions rather than shortcuts.
+
 ### 🎯 Principles
 
 - **[Solve at the periphery](https://calmtech.com/papers/coming-age-calm-technology):** Address problems at the edge of user consciousness, like a good waiter refills your glass before you notice it's empty.
