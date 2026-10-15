@@ -1,6 +1,5 @@
 Shipped a space to generate shareholder value: https://github.com/PostHog/posthog/pull/42137
 
-### 🔗 Let's connect
 [LinkedIn](https://www.linkedin.com/in/ordehi/) • [Blog](https://blog.ordehi.dev/)
 
 <!---
